@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "ebf6dd31ba5a90a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "92dfae7c94763b1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5b63a90f7aef2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux boot process/Chapter 1  Boot Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfdb807d07c7cea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux boot process/Chapter 1  Boot Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e75661411322731",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "picture/adrp instruction.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49b01d989fb2ebf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "deee123a07f4a755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3484712ebe3294",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1120df3c1e4229a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d427576eb6c902f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c95b19ff695ec0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f770f813fe0f58e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eaf004c524d4a7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux boot process/Chapter 1  Boot Process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1501d0c43c823152",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux boot process/Chapter 1  Boot Process.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "370806ff6504e198",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0d2030e87af846d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux boot process/Chapter 1  Boot Process.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "e0d2030e87af846d",
+  "lastOpenFiles": [
+    "armv8 asm define/armv8 asm define description.md",
+    "armv8 instruction/armv8 instruction.md",
+    "linux boot process/Chapter 1  Boot Process.md",
+    "picture/signed offset.png",
+    "picture",
+    "picture/stp pre-index.png",
+    "picture/add immediate instruction.png",
+    "picture/stp instruction description.png",
+    "picture/stp post-index.png",
+    "picture/head.S boot flow.svg",
+    "picture/boot_args变量定义.png",
+    "picture/add register.png",
+    "picture/adrp instruction.png",
+    "Untitled.md",
+    "armv8 instruction",
+    "picture/preserve_boot_args函数内容.png",
+    "armv8 asm define",
+    "linux boot process/armv8",
+    "linux boot process/Untitled Diagram 1.svg.md",
+    "linux boot process/Drawing 2023-04-28 11.11.14.excalidraw.md",
+    "linux boot process/Chapter 1  Boot Process 1.md",
+    "armv8汇编指令.canvas",
+    "armv8宏定义.md",
+    "armv8汇编宏定义.md",
+    "recerve_bootargs.md",
+    "head.S.md",
+    "abc.md",
+    "linux boot process",
+    "head.s分析.md",
+    "linux boot process"
+  ]
+}
